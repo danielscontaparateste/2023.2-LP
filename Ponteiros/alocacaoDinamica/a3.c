@@ -43,6 +43,7 @@ int main(){
         if (*pv[1] < *(px+k)) pv[1] = px+k;
     }
     
+    // Saída
     // printf("Menor: [%p]\nMaior [%p] \n", pMenor, pMaior);
     printf("Menor: %d - [%p] \nMaior: %d - [%p] \n", *pv[0], pv[0], *pv[1], pv[1]);
 
