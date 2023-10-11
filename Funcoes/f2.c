@@ -7,7 +7,6 @@ void somar(int, int, int* );
 void gerarVetor(int *, int, int, int);
 void somarVetor(int *, int t, int *);
 void exibirVetor(int *, int);
-// int multiplicar(int, int);
 
 #define TAM 3
 #define INI 0
